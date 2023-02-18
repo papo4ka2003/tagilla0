@@ -2,6 +2,8 @@
 ## О себе
 Меня зовут Александр. Я студент 3 курса МАИ(Московского Авиационного Института) направления 09.03.01 Информатика и вычислительная техника.\
 Языки программирования: C/C++ , GO, Python
+Учавствовал:
+Хакатон 
 <!--
 **tagilla0/tagilla0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
